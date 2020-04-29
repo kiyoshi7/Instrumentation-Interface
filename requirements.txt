@@ -66,7 +66,7 @@ ssh-import-id==5.7
 system-service==0.3
 ubuntu-drivers-common==0.0.0
 ufw==0.36
-urllib3==1.22
+urllib3==1.24.2
 virtualenv==20.0.16
 virtualenv-clone==0.5.4
 wadllib==1.3.2
